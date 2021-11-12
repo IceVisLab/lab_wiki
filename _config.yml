@@ -7,4 +7,6 @@ include:
   - README.md
   - about.md
   - responsibilities.md
+  - values.md
+  - resources.md
 theme: jekyll-theme-minimal
