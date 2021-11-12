@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Who are We?"
+title: "Expectations and Responsibilities"
 rank: 2
 permalink: /responsibilities/
 ---
