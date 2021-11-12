@@ -12,7 +12,7 @@ The lab is quite big on independence and flexibility – do your work for around
 ### Lab Meetings
 As mentioned above, showing up for lab meetings is important. Because of this, it’s perhaps useful to know when and where they are… **Wednesdays** at **10:30** in room **N120** (Bókastofa Sálfræðideildar), located on the first floor as you enter the building.
 
-For an idea of upcoming presentations in the lab meetings, we also have an open-for-editing google doc - [https://docs.google.com/spreadsheets/d/1SKEzrhTsw0zt-vZgYq-SRP9Z6b7BT7uwjNGDRN9nPw4/edit#gid=0](https://docs.google.com/spreadsheets/d/1SKEzrhTsw0zt-vZgYq-SRP9Z6b7BT7uwjNGDRN9nPw4/edit#gid=0)
+For an idea of upcoming presentations in the lab meetings, we also have an open-for-editing [Google doc](https://docs.google.com/spreadsheets/d/1SKEzrhTsw0zt-vZgYq-SRP9Z6b7BT7uwjNGDRN9nPw4/edit#gid=0)
 
 If you find yourself unable to attend in person, you can also join with the following zoom meeting ID – **695 1289 6619**.
 
@@ -24,6 +24,7 @@ We all have a unique approach and perspective - each contribution is part of mak
 
 ### Lab Ettiquette
 Be mindful of one another! Respect others’ opinions and beliefs, be open to one another and inclusive regardless of gender, sexual orientation, nationality, race, appearance and so on. If you feel like you haven’t been respected in the workplace and would like to talk about it, then talk to your PI about it. If you feel that your PI is the person who hasn’t respected you, then contact X.
+
 
 ## Not-so-General
 ### Principal Investigators (PIs)
