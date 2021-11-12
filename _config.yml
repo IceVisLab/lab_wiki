@@ -6,4 +6,5 @@ relative_links:
 include:
   - README.md
   - about.md
+  - responsibilities.md
 theme: jekyll-theme-minimal
