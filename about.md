@@ -2,7 +2,6 @@
 layout: default
 title: "Who are We?"
 rank: 2
-permalink: /about/
 ---
 
 ## The Lab
