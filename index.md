@@ -2,7 +2,6 @@
 layout: default
 title: "Home"
 rank: 1
-permalink: 
 ---
 
 ## The Lab
