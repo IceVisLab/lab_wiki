@@ -1,5 +1,6 @@
 plugins:
   - jekyll-relative-links
+  - jeykll-menu
 relative_links:
   enabled: true
   collections: true
