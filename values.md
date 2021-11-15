@@ -2,6 +2,7 @@
 layout: default
 title: "Scientific Integrity"
 rank: 3
+permalink: values
 ---
 
 ## Scientific Integrity
