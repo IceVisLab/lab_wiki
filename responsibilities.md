@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Expectations and Responsibilities"
-rank: 3
+rank: 2
 permalink: /responsibilities/
 ---
 
