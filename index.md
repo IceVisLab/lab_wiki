@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Home"
+rank: 1
+---
+
 ## Welcome to GitHub Pages
 
 googily eyes
