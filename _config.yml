@@ -6,7 +6,6 @@ relative_links:
   collections: true
 include:
   - index.md
-  - about.md
   - responsibilities.md
   - values.md
   - resources.md
