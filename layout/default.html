@@ -29,7 +29,7 @@
         </ul>
         {% endif %}
 
-        {% assign sorted = site.pages | sort:"rank" %}
+        {% assign sorted = site.html_pages | sort:"rank" %}
         {% for item in sorted %}
           {% if item.title and item.rank %}
             <menu>
