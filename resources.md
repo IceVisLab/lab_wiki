@@ -2,7 +2,6 @@
 layout: default
 title: "Lab Resources"
 rank: 4
-permalink: /resources/
 ---
 
 ## Website
