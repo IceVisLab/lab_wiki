@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Lab Resources"
-rank: 5
+rank: 4
 permalink: /resources/
 ---
 
