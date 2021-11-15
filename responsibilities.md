@@ -2,6 +2,7 @@
 layout: default
 title: "Expectations and Responsibilities"
 rank: 2
+permalink: responsibilities
 ---
 
 ## General
