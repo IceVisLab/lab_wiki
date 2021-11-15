@@ -1,8 +1,7 @@
 ---
 layout: default
-title: "Who are We?"
+title: "Home"
 rank: 1
-permalink:
 ---
 
 ## The Lab
