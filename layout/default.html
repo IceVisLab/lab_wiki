@@ -35,12 +35,12 @@
         {% assign sorted = site.html_pages | sort:"rank" %}
         {% for item in sorted %}
           {% if item.title and item.rank %}
-            <menu>
-              <a href="{{ item.path | replace:'.md','.html' }}">{{ item.title }}</a>
-              <!-- <span> [ {{ item.path }} - {{ item.title }} - {{ item.rank }} ] </span> -->
-            </menu>
-          {% endif %}
-        {% endfor %}
+        <menu>
+          <a href="{{ item.path | replace:'.md','.html' }}">{{ item.title }}</a>
+            <!-- <span> [ {{ item.path }} - {{ item.title }} - {{ item.rank }} ] </span> -->
+          </menu>
+        {% endif %}
+       {% endfor %}
       </header>
       <section>
 
