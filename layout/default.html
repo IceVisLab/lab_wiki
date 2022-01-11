@@ -36,9 +36,11 @@
         {% for item in sorted %}
           {% if item.title and item.rank %}
        <menu>
-         <a href="{{ item.path | replace:'.md','.html' }}">{{ item.title }}</a>
-           <!-- <span> [ {{ item.path }} - {{ item.title }} - {{ item.rank }} ] </span> -->
-         </menu>
+         <a href="index.md">Home</a>
+           <!-- <span> [ index.md - Home - 1 ] </span> -->
+         <a href="responsibilities.md">Expectations and Responsibilities
+           <!-- <span> [ responsibilities.md - Expectations and Responsibilities - 2 ] </span> -->
+        </menu>
        {% endif %}
       {% endfor %}
      </header>
