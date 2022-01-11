@@ -6,7 +6,7 @@ permalink:
 ---
 
 ## The Lab
-We are the Icelandic Vision Lab! Based in **Nýi Garður**, the Icelandic Vision Lab offers a stimulating academic environment. Despite the name, the lab is truly international with current members and alumni from seven countries across the world who all work on various aspects of perception and cognition. A list of recent publications can be found [here](http://visionlab.is/publications/). The lab is well funded and provides good access to necessary equipment for the studies (for more information on our equipment, see X).
+We are the Icelandic Vision Lab! Based in **Nýi Garður**, the Icelandic Vision Lab offers a stimulating academic environment. Despite the name, the lab is truly international with current members and alumni from seven countries across the world who all work on various aspects of perception and cognition. A list of recent publications can be found [here](http://visionlab.is/publications/). The lab is well funded and provides good access to necessary equipment for the studies (for more information on our equipment, see [here](https://icevislab.github.io/lab_wiki/resources).
 
 For further information on who is who, you can refer to the following web address – [http://visionlab.is/people/](http://visionlab.is/people/). Here you will find the current list of who is floating about the place (and the website comes with photographs, so this is always useful for the name bingo you will obviously play to get all these names memorised). Unfortunately, there is no phonetic key for these funky Icelandic names, so if you are new here and naive to Iceland, you’ve got to improvise until you become accustomed to all this rune pronunciation.
 
